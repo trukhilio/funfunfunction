@@ -1,0 +1,23 @@
+{
+  "name": "funfunction",
+  "version": "1.0.0",
+  "description": "exercises\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dfun ex\u001b[2~e\u001b[2~rcises",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trukhilio/funfunfunction.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trukhilio/funfunfunction/issues"
+  },
+  "homepage": "https://github.com/trukhilio/funfunfunction#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0"
+  }
+}
